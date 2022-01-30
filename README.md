@@ -1,2 +1,2 @@
-# UiPath-P01
-First project on UiPath. This is basically just an exploration of UiPath Studio.
+# Dynamic attachments saving robot
+This bot dynamically save attachments from mails and stores them into a folder.
